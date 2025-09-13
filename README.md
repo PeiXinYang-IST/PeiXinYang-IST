@@ -6,4 +6,4 @@ Hi there!👋
 
 - [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PeiXinYang-IST&theme=high-contrast)
  ![贡献图表](https://github-readme-streak-stats.herokuapp.com/?user=PeiXinYang-IST&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=PeiXinYang-IST)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiXinYang-IST&layout=compact&theme=buefy&hide_border=true" />
