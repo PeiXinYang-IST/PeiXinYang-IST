@@ -1,4 +1,6 @@
 Hi there!👋
+📽️ [Bilibili](https://space.bilibili.com/646213110?spm_id_from=333.1007.0.0))
+ 
 ## 🚀 技能栈
 - 编程语言: [C++, C, Python]
 - 🌱 正在学习[SLAM navigation ROS2]
